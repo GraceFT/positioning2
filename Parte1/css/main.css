@@ -7,13 +7,13 @@
     background-color: orangered;
     width: 400px;
     height: 400px;
-    position: relative;
+    position: static;
 }
 .box2 {
   background-color: darkviolet;
     width: 200px;
     height: 200px;
-    position: absolute;
+    position: relative;
     top: 100px;
     left: 100px;
 }
